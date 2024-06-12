@@ -9,7 +9,6 @@ Welcome to the Spring Boot WebSocket Chat Application! This application allows u
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
